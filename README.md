@@ -7,7 +7,7 @@ End-to-end, low-code automation of two core HR workflows, built entirely on Micr
 
 I designed, built and rolled out this solution myself for the HR team of a hospital. This repository is a **sanitized portfolio version**. It contains no real data, no tenant URLs, no e-mail addresses and no access to the original environment.
 
-### ▶ [Try the interactive demo](https://YOUR-USERNAME.github.io/hr-requests-automation-m365/)
+### ▶ [Try the interactive demo](https://lucielesilvachaves.github.io/hr-requests-automation-m365/)
 
 A browser-only simulation of the whole solution, built with **React + TypeScript**. Submit requests as a manager, change statuses as HR, advance the calendar to watch the SLA update, and see every automatic e-mail and flow run as it happens.
 
