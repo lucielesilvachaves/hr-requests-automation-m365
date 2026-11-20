@@ -1,0 +1,4 @@
+Request,Submission date,Requesting manager,Manager e-mail,Change type,Effective from,Employee name,Employee ID,Current position,Current department,New position,New department,Linked to another employee's exit,Status
+MP-001,2026-01-10,Ana Example,ana.example@contoso.com,Promotion with replacement,2026-02-01,Lucas Sample,E1001,Nursing Technician,Inpatient Unit,Nurse,Inpatient Unit,No,Approved
+MP-002,2026-01-15,Bruno Example,bruno.example@contoso.com,Transfer without replacement (department and/or hours only),2026-02-15,Julia Sample,E1002,Receptionist,Outpatient Clinic,Receptionist,Emergency,No,Under review
+MP-003,2026-01-20,Carla Example,carla.example@contoso.com,Promotion without replacement,2026-03-01,Rafael Sample,E1003,Pharmacy Assistant,Pharmacy,Pharmacist,Pharmacy,Yes,Cancelled

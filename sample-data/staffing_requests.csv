@@ -1,0 +1,6 @@
+Title,Request No.,Position,Department,Requesting manager,Manager e-mail,Work hours,Shift pattern,Opening reason,Replaced employee,Posting type,Status,Days open,SLA target (days),SLA status
+RP-001,1,Nursing Technician,Inpatient Unit,Ana Example,ana.example@contoso.com,07:00-19:00,12x36,Termination,John Sample,External,In selection,12,30,On time
+RP-002,2,Receptionist,Outpatient Clinic,Bruno Example,bruno.example@contoso.com,08:00-17:00,5x2,Headcount increase,,Both,Received,3,30,On time
+RP-003,3,Pharmacist,Pharmacy,Carla Example,carla.example@contoso.com,13:00-22:00,6x1,Promotion,Maria Sample,Internal,Closed,25,30,Closed on time
+RP-004,4,Lab Assistant,Laboratory,Daniel Example,daniel.example@contoso.com,19:00-07:00,12x36,Termination,Peter Sample,External,In hiring,41,30,Late
+RP-005,5,Admin Assistant,Finance,Elisa Example,elisa.example@contoso.com,08:00-17:00,5x2,Headcount increase,,External,Frozen,18,30,Frozen
